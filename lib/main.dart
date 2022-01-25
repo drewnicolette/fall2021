@@ -19,6 +19,7 @@ import 'package:untitled3/Observables/SettingObservable.dart';
 import 'package:untitled3/Observables/NoteObservable.dart';
 import 'package:untitled3/Observables/ScreenNavigator.dart';
 import 'package:untitled3/Observables/NotificationObservable.dart';
+import 'package:dcdg/dcdg.dart';
 
 void main() {
   runApp(MyApp());
